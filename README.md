@@ -15,6 +15,14 @@ To make new filters:
 
 F7 fabric: https://www.amazon.fr/dp/B07GZTCGXG/
 
+Pictures:
+
+[![F7 filter 3D view](https://i.imgur.com/rdTV9PHl.png)](https://i.imgur.com/rdTV9PH.png)
+
+[![F7 filter back](https://i.imgur.com/VqkCIYtl.jpg)](https://i.imgur.com/VqkCIYt.jpg)
+
+[![F7 filter in place](https://i.imgur.com/eYV1ZVLl.jpg)](https://i.imgur.com/eYV1ZVL.jpg)
+
 ## G4 filter
 
 To make new filters:
